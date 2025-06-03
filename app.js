@@ -14,4 +14,10 @@ console.log(name,greet("Welcome") );
 //movie detail import from movi file
 import moviedetail from "./movie.js";
 console.log(moviedetail);
+ 
+//add with other file
+//Acter deafult 2 from another page 
+import Acters from "./Acters.js";
+console.log(Acters)
+
 
